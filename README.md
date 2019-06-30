@@ -8,3 +8,9 @@
 4. numpy 1.16.4
 5. pandas 0.23.4
 6. matplotlib 2.0.0
+7. CUDA 10.0.140
+8. cudnn 7.6.1
+
+## 显卡配置
+
+1. 1070Ti
